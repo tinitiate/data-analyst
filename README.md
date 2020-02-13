@@ -1,5 +1,11 @@
-# data-analyst
+# Data Analyst
+> (c) Venkata Bhattaram
 
-(c) Venkata Bhattaram
+---
+* Data, Data Models
+* SQL Basics, Advanced
+* Sales Data OLTP-OLAP-Reports
+---
 
-syntaxboard@gmail.com
+For Training and Project Support contact **syntaxboard@gmail.com**  | 
+------------------------------------------------------------------- | 
