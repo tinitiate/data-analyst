@@ -1,0 +1,30 @@
+1,'Iphone 10','electronics',899
+2,'Dell 10','electronics',1200
+3,'samsung','electronics',800
+4,'Apples','fruit',1
+5,'Mangoes','fruit',2
+6,'Bananas','fruit',1
+7,'Dish Wash Cleaner','cleaning',3
+8,'Laundry Cleaner','cleaning',3
+9,'Floor Cleaner','cleaning',2
+10,'Milk','dairy',4
+11,'Butter','dairy',4
+12,'Cheese','dairy',4
+13,'Printer ink','Office Supplies',10
+14,'Paper Rolls','Office Supplies',10
+15,'Pens','Office Supplies',3
+16,'Printer','electronics',50
+17,'HDTV','electronics',300
+18,'UHDTV','electronics',400
+19,'Cereal','food',4
+20,'Chips','food',3
+21,'pop corn','food',3
+22,'Batter','food',5
+23,'cake','food',5
+24,'dry fruits','food',8
+25,'ice cream','frozen food',8
+26,'frozen pizza','frozen food',5
+27,'frozen peas','frozen food',3
+28,'veg breakfast','food',5
+29,'egg breakfast','food',6
+30,'chicken breakfast','food',7
