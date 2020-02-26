@@ -1,4 +1,4 @@
-#Join Algos
+# Join Algos
 * Nested Loop
 * Hash Join
 * Merge Join
