@@ -7,3 +7,4 @@
 ## 2. Create CRM Data Model tables from following link:
 * [CRM Data Model](http://www.databaseanswers.org/data_models/crm_marketing_data/index.htm])
 * Create and load data
+* http://www.databaseanswers.org/data_models/crm_marketing_data/index.htm
